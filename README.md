@@ -1,6 +1,6 @@
 # World Happiness Report 2024 - Machine Learning Models
 
-This project uses the [World Happiness Report 2020 dataset](https://www.kaggle.com/) from Kaggle to predict happiness scores based on various input features. The goal is to compare the performance of four different machine learning algorithms and predict whether a given country is considered "low happy", "medium happy", or "high happy".
+This project uses the [World Happiness Report 2020 dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/mllion/world-happiness-report-2024)) from Kaggle to predict happiness scores based on various input features. The goal is to compare the performance of four different machine learning algorithms and predict whether a given country is considered "low happy", "medium happy", or "high happy".
 
 ## Algorithms Implemented
 - **Linear Regression.**
