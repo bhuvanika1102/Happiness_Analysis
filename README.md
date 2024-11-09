@@ -32,7 +32,7 @@ Follow the steps below to set up the project on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/bhuvanika1102/Happiness_Analysis.git
 cd your-repository
 ```
 ### 2. Install Dependencies
