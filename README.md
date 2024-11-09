@@ -48,3 +48,8 @@ Once the dependencies are installed and the dataset is in place, you can run the
 streamlit run new.py
 ```
 This will launch the app in your default web browser.
+
+
+
+## Contact
+For any questions or comments, please reach out bhuvani1102@gmail.com.
