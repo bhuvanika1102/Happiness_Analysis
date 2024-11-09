@@ -3,7 +3,7 @@
 This project uses the [World Happiness Report 2020 dataset](https://www.kaggle.com/) from Kaggle to predict happiness scores based on various input features. The goal is to compare the performance of four different machine learning algorithms and predict whether a given country is considered "low happy", "medium happy", or "high happy".
 
 ## Algorithms Implemented
-- **Linear Regression**
+- **Linear Regression.**
 - **Decision Tree Regressor**
 - **Gradient Boosting Regressor**
 - **Random Forest Regressor**
